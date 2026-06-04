@@ -7,3 +7,4 @@ joblib
 textblob
 beautifulsoup4
 requests 
+yfinance==0.2.65

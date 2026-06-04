@@ -1,0 +1,52 @@
+# Virtual Environment
+
+venv/
+ven310/
+.venv/
+env/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# Streamlit Cache
+
+.streamlit/secrets.toml
+
+# System Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Model Cache
+
+.cache/
+
+# Environment Variables
+
+.env

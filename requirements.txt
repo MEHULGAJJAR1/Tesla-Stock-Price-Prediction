@@ -6,4 +6,4 @@ scikit-learn
 joblib
 textblob
 beautifulsoup4
-requests
+requests 
